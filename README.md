@@ -34,7 +34,7 @@ If you don't want the hassle of making your own config and icons you can downloa
  2. Move both folders to your game's directory where the launcher is: [example](https://i.imgur.com/vZ1KcqZ.png).
  3. Open "Resorep" and open the folder that corresponds to your OS.
  4. Open "resorep.jar", press "Add application" and select "Marvel's Spider-Man 2.exe" in your "workspace" folder.
- 5. Then, click the three dots where it says "Modded textures folder:" and go to your game's directory (where you moved both folders) -> "KeyboardIcons" -> and select "Modded Textures".
+ 5. Then, click the three dots where it says "Modded textures folder:" and go to your game's directory (where you moved both folders) -> select "Modded Textures".
  6.  Install "SM2Config.rewasd" like any other config.
  7.  Done.
 
