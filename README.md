@@ -20,7 +20,7 @@ I highly recommend you get a controller so you can beat certain areas of the gam
  (P.s. left click in an empty space, go to "View" and select "Large Icons" so you can see the preview)
  2. In another explorer window, go to "KeyboardIcons" -> "K&M Icons" and there you'll find three different folders. *80x80 and 120x76* are the two different resolutions. *Colored and simple* are the two different styles, you can choose the style you'd like as long as it matches the resolution of the icon you are going to replace.
 3. To replace, all you need to do is copy and paste the icon to your modded textures folder and rename it accordingly by removing the "#" symbol.
-4. "But wait, how do I know which icon should I use?" - It's easy. Is it a square? Use 80x80. Is it a rectangle? Use 120x76. THIS IS IMPORTANT, otherwise you'll have stretched textures.
+4. "But wait, how do I know which resolution icon should I use?" - It's easy. Is it a square? Use 80x80. Is it a rectangle? Use 120x76. THIS IS IMPORTANT, otherwise you'll have stretched textures.
 
 I know it can be confusing at first so here's a quick example for you to follow: Let's say you mapped spacebar to act as the cross button in ReWASD. Firstly, you need to identify the cross button and it's resolution in the "Modded Textures" folder, in this case it's "#4294874960.dds" and it's a square. Then, you need to look for it in the icons. Simply copy and paste it into your "Modded Textures" folder and rename it so it matches the cross button but don't FORGET to remove the "#" symbol when you rename it. Then feel free to delete the original cross button file.
 ## Last Steps
