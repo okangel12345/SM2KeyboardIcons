@@ -1,6 +1,6 @@
 
 # Ultimate K&B Guide
-I highly recommend you get a controller so you can beat certain areas of the game. Even when using ReWASD you won't be able to complete the game 100%, that's why a controller is important / highly recommended.
+I highly recommend you get a controller so you can beat certain areas of the game.
 ## Before you start:
  - Install and configure [ReWASD](https://github.com/EugeneSunrise/reWASD) to your liking.
  - Install [Paint.net](https://www.getpaint.net/) so you can see the DDS files at first glance. (Trust me, you'll need this)
