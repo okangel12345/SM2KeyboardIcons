@@ -1,6 +1,6 @@
 
 # Ultimate K&B Guide
-I highly recommend you get a controller so you can beat certain areas of the game.
+I highly recommend you get a controller so you can beat certain areas of the game. PRE-MADE ICONS ARE AVAILABLE, just scroll down a little bit.
 ## Before you start:
  - Install and configure [ReWASD](https://github.com/EugeneSunrise/reWASD) to your liking.
  - Install [Paint.net](https://www.getpaint.net/) so you can see the DDS files at first glance. (Trust me, you'll need this)
