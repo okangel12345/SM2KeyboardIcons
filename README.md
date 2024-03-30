@@ -30,7 +30,7 @@ After you've replaced all the icons, copy and paste ALL the icons from "Fixed Te
 ![enter image description here](https://media.discordapp.net/attachments/1202083020623065108/1218921361104175194/1.png?ex=6612a67a&is=6600317a&hm=bbb1214779f5579723ed3f69b10717f40770b6e5594dec880361773c86d10687&=&format=webp&quality=lossless&width=1175&height=644)
 # Pre-made Icons
 If you don't want the hassle of making your own config and icons you can download "SM2BakedIcons" in the [releases](https://github.com/okangel12345/SM2KeyboardIcons/tags) tab. There you'll find all the icons assigned to a pre-made ReWASD config made by Xyan. The guide is pretty much the same.
-1. Extract "SM2BakedIcons.7z", inside you'll find two folders.
+1. Extract "SM2BakedIcons.7z", inside you'll find two folders and a config.
  2. Move both folders to your game's directory where the launcher is: [example](https://i.imgur.com/vZ1KcqZ.png).
  3. Open "Resorep" and open the folder that corresponds to your OS.
  4. Open "resorep.jar", press "Add application" and select "Marvel's Spider-Man 2.exe" in your "workspace" folder.
