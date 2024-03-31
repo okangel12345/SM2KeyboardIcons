@@ -2,7 +2,7 @@
 # Ultimate K&B Guide
 I highly recommend you get a controller so you can beat certain areas of the game. PRE-MADE ICONS ARE AVAILABLE, just scroll down a little bit.
 
-Having issues? Check [Common Issues](https://github.com/okangel12345/SM2KeyboardIcons/blob/main/CommonIssues.md)
+Having issues? Check [Common Issues](https://github.com/okangel12345/SM2KeyboardIcons/blob/main/CommonIssues.md).
 
 ## Before you start:
  - Install and configure [ReWASD](https://github.com/EugeneSunrise/reWASD) to your liking.
