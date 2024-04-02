@@ -10,6 +10,17 @@ Having issues? Check [Common Issues](https://github.com/okangel12345/SM2Keyboard
  - Install [Java Runtime](https://www.java.com/es/).
  - Download Resorep (It's already included in the zip file so you can skip this).
  - Here's a video in case a step isn't very clear and you wanna see it being done: [YouTube](https://youtu.be/EQdKYTqf73I)
+
+# Pre-made Icons
+If you don't want the hassle of making your own config and icons you can download "SM2BakedIcons" in the [releases](https://github.com/okangel12345/SM2KeyboardIcons/tags) tab. There you'll find all the icons assigned to a pre-made ReWASD config made by Xyan. The guide is pretty much the same.
+1. Extract "SM2BakedIcons.7z", inside you'll find two folders and a config.
+ 2. Move both folders to your game's directory where the launcher is: [example](https://i.imgur.com/vZ1KcqZ.png).
+ 3. Open "Resorep" and open the folder that corresponds to your OS.
+ 4. Open "resorep.jar", press "Add application" and select "Marvel's Spider-Man 2.exe" in your "workspace" folder.
+ 5. Then, click the three dots where it says "Modded textures folder:" and go to your game's directory (where you moved both folders) -> select "Modded Textures".
+ 6.  Install "SM2Config.rewasd" like any other config.
+ 7.  Done.
+
 ## Resorep Tutorial
  1. Extract "KeyboardIcons.7z", inside you'll find two folders.
  2. Move both folders to your game's directory where the launcher is: [example](https://i.imgur.com/vZ1KcqZ.png).
@@ -31,15 +42,6 @@ After you've replaced all the icons, copy and paste ALL the icons from "Fixed Te
 
 ## Showcase
 ![enter image description here](https://media.discordapp.net/attachments/1202083020623065108/1218921361104175194/1.png?ex=6612a67a&is=6600317a&hm=bbb1214779f5579723ed3f69b10717f40770b6e5594dec880361773c86d10687&=&format=webp&quality=lossless&width=1175&height=644)
-# Pre-made Icons
-If you don't want the hassle of making your own config and icons you can download "SM2BakedIcons" in the [releases](https://github.com/okangel12345/SM2KeyboardIcons/tags) tab. There you'll find all the icons assigned to a pre-made ReWASD config made by Xyan. The guide is pretty much the same.
-1. Extract "SM2BakedIcons.7z", inside you'll find two folders and a config.
- 2. Move both folders to your game's directory where the launcher is: [example](https://i.imgur.com/vZ1KcqZ.png).
- 3. Open "Resorep" and open the folder that corresponds to your OS.
- 4. Open "resorep.jar", press "Add application" and select "Marvel's Spider-Man 2.exe" in your "workspace" folder.
- 5. Then, click the three dots where it says "Modded textures folder:" and go to your game's directory (where you moved both folders) -> select "Modded Textures".
- 6.  Install "SM2Config.rewasd" like any other config.
- 7.  Done.
 
 ## Uninstall Process
 DO NOT delete Resorep before properly removing the game first. Here are the steps you should follow:
