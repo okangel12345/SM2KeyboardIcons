@@ -3,11 +3,12 @@
 When replacing the icons you need to check first whether the icon you're gonna replace is a **SQUARE** or a **RECTANGLE**.
 - If it's a square replace using one of the icons from "80x80", it can be either colored or simple. It doesn't really matter.
 - If it's a rectangle simply use one from "120x76".
+- 
+*"But wait, how do I know whether it's a square or a rectangle?"* - Simply hover the mouse over the icon or select it and you should see the outline in the preview.
 
 ## Stuck in a puzzle?
 Open the pause menu and choose the option to skip it.
 
-*"But wait, how do I know whether it's a square or a rectangle?"* - Simply hover the mouse over the icon or select it and you should see the outline in the preview.
 ## Resorep is crashing my game.
 Absolutely no idea why this is happening. You can only verify a couple of things:
 1. Make sure you have **64-bit Java** installed.
