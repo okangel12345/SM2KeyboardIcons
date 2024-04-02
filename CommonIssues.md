@@ -4,7 +4,7 @@ When replacing the icons you need to check first whether the icon you're gonna r
 - If it's a square replace using one of the icons from "80x80", it can be either colored or simple. It doesn't really matter.
 - If it's a rectangle simply use one from "120x76".
 
-##Stuck in a puzzle?
+## Stuck in a puzzle?
 Open the pause menu and choose the option to skip it.
 
 *"But wait, how do I know whether it's a square or a rectangle?"* - Simply hover the mouse over the icon or select it and you should see the outline in the preview.
