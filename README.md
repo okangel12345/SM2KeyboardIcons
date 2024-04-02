@@ -22,6 +22,7 @@ If you don't want the hassle of making your own config and icons you can downloa
  7.  Done.
 
 # How to make your own config + icons.
+Use this in case you want to use your own personalized config.
 ## Resorep Tutorial
  1. Extract "KeyboardIcons.7z", inside you'll find two folders.
  2. Move both folders to your game's directory where the launcher is: [example](https://i.imgur.com/vZ1KcqZ.png).
