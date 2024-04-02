@@ -10,10 +10,12 @@ When replacing the icons you need to check first whether the icon you're gonna r
 Open the pause menu and choose the option to skip it.
 
 ## Resorep is crashing my game.
-Absolutely no idea why this is happening. You can only verify a couple of things:
+Seems that people who have it are missing files Resorep should've added when your game was added, absolutely no idea why this is happening. You can only verify a couple of things:
 1. Make sure you have **64-bit Java** installed.
 2. Verify you selected "Marvel's Spider-Man 2.exe" in Resorep.
 3. Confirm that the version of Resorep you're using is the Windows 10 version.
+4. Try removing your game in Resorep and then adding it again.
+
 ## My game's crashing and I want to remove Resorep.
 **Method 1:** Assuming Resorep didn't work and you can't open your game, do the following:
 - 1. Open Resorep and select your game.
