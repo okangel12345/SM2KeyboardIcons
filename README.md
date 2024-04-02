@@ -21,6 +21,7 @@ If you don't want the hassle of making your own config and icons you can downloa
  6.  Install "SM2Config.rewasd" like any other config.
  7.  Done.
 
+# How to make your own config + icons.
 ## Resorep Tutorial
  1. Extract "KeyboardIcons.7z", inside you'll find two folders.
  2. Move both folders to your game's directory where the launcher is: [example](https://i.imgur.com/vZ1KcqZ.png).
