@@ -21,7 +21,7 @@ Seems that people who have it are missing files Resorep should've added when you
 - 1. Open Resorep and select your game.
 - 2. Click "Remove selected"
 
- **Method 2:** If you already deleted Resorep and can't remove your game because of that:
+ **Method 2:** If method one didn't work or you already deleted Resorep and can't remove your game because of that:
 - 1. Open your "workspace" folder.
 - 2. Search for "d3d11.dll"
 -  3. Delete it. That's the injector and it shouldn't mess with your game anymore.
