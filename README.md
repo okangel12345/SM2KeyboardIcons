@@ -8,18 +8,16 @@ Having issues? Check [Common Issues](https://github.com/okangel12345/SM2Keyboard
  - Install and configure [ReWASD](https://github.com/EugeneSunrise/reWASD) to your liking.
  - Install [Paint.net](https://www.getpaint.net/) so you can see the DDS files at first glance. (Trust me, you'll need this)
  - Install [Java Runtime](https://www.java.com/es/).
- - Download Resorep (It's already included in the zip file so you can skip this).
- - Here's a video in case a step isn't very clear and you wanna see it being done: [YouTube](https://youtu.be/EQdKYTqf73I)
+ - Download Resorep (NOT NEEDED ANYMORE!!!).
+ - Here's a video in case a step isn't very clear and you wanna see it being done for how to make your own icons: [YouTube](https://youtu.be/EQdKYTqf73I)
 
 # Pre-made Icons
-If you don't want the hassle of making your own config and icons you can download "SM2BakedIcons" in the [releases](https://github.com/okangel12345/SM2KeyboardIcons/tags) tab. There you'll find all the icons assigned to a pre-made ReWASD config made by Xyan. The guide is pretty much the same.
-1. Extract "SM2BakedIcons.7z", inside you'll find two folders and a config.
- 2. Move both folders to your game's directory where the launcher is: [example](https://i.imgur.com/vZ1KcqZ.png).
- 3. Open "Resorep" and open the folder that corresponds to your OS.
- 4. Open "resorep.jar", press "Add application" and select "Marvel's Spider-Man 2.exe" in your "workspace" folder.
- 5. Then, click the three dots where it says "Modded textures folder:" and go to your game's directory (where you moved both folders) -> select "Modded Textures".
- 6.  Install "SM2Config.rewasd" like any other config.
- 7.  Done.
+If you don't want the hassle of making your own config and icons you can download "SM2BakedIconsv1.1" in the [releases](https://github.com/okangel12345/SM2KeyboardIcons/tags) tab. There you'll find all the icons assigned to a pre-made ReWASD config made by Xyan.
+ 1. Extract "SM2BakedIcons.zip" and move ALL the files to your Workspace folder.
+ 2. Run "Install_Keyboard_Icons.bat".
+ 3. Done.
+
+To uninstall all you have to do is run "Uninstall_Keyboard_Icons.bat".
 
 # How to make your own config + icons.
 Use this in case you want to use your own personalized config.
