@@ -11,7 +11,7 @@ Having issues? Check [Common Issues](https://github.com/okangel12345/SM2Keyboard
  - Download Resorep (NOT NEEDED ANYMORE!!!).
  - Here's a video in case a step isn't very clear and you wanna see it being done for how to make your own icons: [YouTube](https://youtu.be/EQdKYTqf73I)
 
-# Pre-made Icons
+# Pre-made Icons (BakedIcons)
 If you don't want the hassle of making your own config and icons you can download "SM2BakedIconsv1.1" in the [releases](https://github.com/okangel12345/SM2KeyboardIcons/tags) tab. There you'll find all the icons assigned to a pre-made ReWASD config made by Xyan.
  1. Extract "SM2BakedIcons.zip" and move ALL the files to your Workspace folder.
  2. Run "Install_Keyboard_Icons.bat".
