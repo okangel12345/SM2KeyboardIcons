@@ -8,7 +8,7 @@ Having issues? Check [Common Issues](https://github.com/okangel12345/SM2Keyboard
  - Install and configure [ReWASD](https://github.com/EugeneSunrise/reWASD) to your liking.
  - Install [Paint.net](https://www.getpaint.net/) so you can see the DDS files at first glance. (Trust me, you'll need this)
  - Install [Java Runtime](https://www.java.com/es/).
- - Download Resorep (NOT NEEDED ANYMORE!!!).
+ - Download Resorep (NOT NEEDED ANYMORE for the BakedIcons!!! You'll still needed if you want to make your own config).
  - Here's a video in case a step isn't very clear and you wanna see it being done for how to make your own icons: [YouTube](https://youtu.be/EQdKYTqf73I)
 
 # Pre-made Icons (BakedIcons)
