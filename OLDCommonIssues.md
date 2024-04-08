@@ -1,4 +1,5 @@
 # Common Issues
+
 ## My icons look stretched.
 When replacing the icons you need to check first whether the icon you're gonna replace is a **SQUARE** or a **RECTANGLE**.
 - If it's a square replace using one of the icons from "80x80", it can be either colored or simple. It doesn't really matter.
