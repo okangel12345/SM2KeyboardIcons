@@ -27,7 +27,7 @@ If you need any help setting up ReWASD check this page: https://help.rewasd.com/
 
 **Adaptive triggers** puzzles can be easily skipped by opening the pause menu and selecting "Skip Activity".
 
-**QTE that use the right joystick** can be done by pressing the arrow keys or using your mouse.
+**QTE that use the right joystick** can be done by pressing the arrow keys or using your mouse. The game will show arrow keys by default.
 
 **Change your in-game's camera sensitivity** to something between 7 and 10 depending on your mouse's DPI, that'll make camera movement feel much more natural. But even then you'll have to get used to it. If you want to you can also tweak your mouse's sensitivity and response in reWASD. [Here's a guide,](https://help.rewasd.com/basic-functions/advanced-stick-settings.html)
 
