@@ -1,4 +1,4 @@
-# MSM2 for PC - Keyboard + Mouse Overhaul
+# SM2 BAKED ICONS
 Keyboard and mouse icons along with a ReWASD config so you can play Marvel's Spider-Man 2 on PC without a controller.
 
 ![blank](https://i.imgur.com/hfK5xwf.png)
