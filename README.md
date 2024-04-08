@@ -1,50 +1,52 @@
+# MSM2 for PC - Keyboard + Mouse Overhaul
+Keyboard and mouse icons along with a ReWASD config so you can play Marvel's Spider-Man 2 on PC without a controller.
 
-# Ultimate K&B Guide
-I highly recommend you get a controller so you can beat certain areas of the game. PRE-MADE ICONS ARE AVAILABLE, just scroll down a little bit.
+![blank](https://i.imgur.com/hfK5xwf.png)
+![blank](https://i.imgur.com/kQOAlQ1.png)
 
-Having issues? Check [Common Issues](https://github.com/okangel12345/SM2KeyboardIcons/blob/main/CommonIssues.md).
+### Requirements
+1. A legit or cracked copy of ReWASD. You can find a crack [here](https://github.com/EugeneSunrise/reWASD). I highly recommend you install the latest available version: [reWASD 7.0](https://github.com/EugeneSunrise/reWASD/releases/tag/7.0X86FULL).
+2. Marvel's Spider-Man 2 for PC.
 
-## Before you start:
- - Install and configure [ReWASD](https://github.com/EugeneSunrise/reWASD) to your liking.
- - Install [Paint.net](https://www.getpaint.net/) so you can see the DDS files at first glance. (Trust me, you'll need this)
- - Install [Java Runtime](https://www.java.com/es/).
- - Download Resorep (NOT NEEDED ANYMORE for the BakedIcons!!! You'll still needed if you want to make your own config).
- - Here's a video in case a step isn't very clear and you wanna see it being done for how to make your own icons: [YouTube](https://youtu.be/EQdKYTqf73I)
+### ReWASD Config Instructions
+If you need any help setting up ReWASD check this page: https://help.rewasd.com/ and its contents.
+1. Download the latest release called "SM2BakedIcons.zip" and double-click "Spider-Man 2 PC.rewasd" to add it to ReWASD.
+2. [Group your keyboard and mouse together](https://help.rewasd.com/how-to-remap/group-of-devices.html).
+3. Start your game and enable reWASD by clicking "Apply to Slot 1" or the power button on the bottom left side of your screen. You can hold '7' on your keyboard to use your mouse so you can minimize reWASD's window.
 
-# Pre-made Icons (BakedIcons)
-If you don't want the hassle of making your own config and icons you can download "SM2BakedIconsv1.1" in the [releases](https://github.com/okangel12345/SM2KeyboardIcons/tags) tab. There you'll find all the icons assigned to a pre-made ReWASD config made by Xyan.
- 1. Extract "SM2BakedIcons.zip" and move ALL the files to your Workspace folder.
- 2. Run "Install_Keyboard_Icons.bat".
- 3. Done.
+### Icons Instructions
+1. Copy all the files from "BakedIcons" to your "workspace" folder.
+2. Run "Install_Keyboard_Icons.bat". A CMD window will appear telling you it was successful.
 
-To uninstall all you have to do is run "Uninstall_Keyboard_Icons.bat".
+## NOTES! Please read.
+**To see the descriptions** of the keybinds all you have to do is click the "View button" and select "Show mappings/descriptions". I highly recommend you do this before playing so you can familiarize yourself with the controls.
 
-# How to make your own config + icons.
-Use this in case you want to use your own personalized config.
-## Resorep Tutorial
- 1. Extract "KeyboardIcons.7z", inside you'll find two folders.
- 2. Move both folders to your game's directory where the launcher is: [example](https://i.imgur.com/vZ1KcqZ.png).
- 3. Open "Resorep" and open the folder that corresponds to your OS.
- 4. Open "resorep.jar", press "Add application" and select "Marvel's Spider-Man 2.exe" in your "workspace" folder.
- 5. Then, click the three dots where it says "Modded textures folder:" and go to your game's directory (where you moved both folders) -> "KeyboardIcons" -> and select "Modded Textures".
- 6.  Done. Now it's time to customize the mod.
- 
- ## Icons Tutorial
- 1. Copy and paste ALL the files from the folder "Textures for you to replace" to your "Modded Textures" folder. It should be looking like this: [example](https://i.imgur.com/REhgeEF.png).
- (P.s. left click in an empty space, go to "View" and select "Large Icons" so you can see the preview)
- 2. In another explorer window, go to "KeyboardIcons" -> "K&M Icons" and there you'll find three different folders. *80x80 and 120x76* are the two different resolutions. *Colored and simple* are the two different styles, you can choose the style you'd like as long as it matches the resolution of the icon you are going to replace.
-3. To replace, all you need to do is copy and paste the icon to your modded textures folder and rename it accordingly by removing the "#" symbol.
-4. "But wait, how do I know which resolution icon should I use?" - It's easy. Is it a square? Use 80x80. Is it a rectangle? Use 120x76. THIS IS IMPORTANT, otherwise you'll have stretched textures.
+![blank](https://i.ibb.co/QcRyzg6/image.png)
 
-I know it can be confusing at first so here's a quick example for you to follow: Let's say you mapped spacebar to act as the cross button in ReWASD. Firstly, you need to identify the cross button and it's resolution in the "Modded Textures" folder, in this case it's "#4294874960.dds" and it's a square. Then, you need to look for it in the icons. Simply copy and paste it into your "Modded Textures" folder and rename it so it matches the cross button but don't FORGET to remove the "#" symbol when you rename it. Then feel free to delete the original cross button file.
-## Last Steps
-After you've replaced all the icons, copy and paste ALL the icons from "Fixed Textures" to your "Modded Textures" folder. You don't need to modify those icons as those were already customized.
+**Camera Gadget** can only be opened from the pause menu. You can also open the FNSM app from there in case "Alt" doesn't work.
 
-## Showcase
-![enter image description here](https://media.discordapp.net/attachments/1202083020623065108/1218921361104175194/1.png?ex=6612a67a&is=6600317a&hm=bbb1214779f5579723ed3f69b10717f40770b6e5594dec880361773c86d10687&=&format=webp&quality=lossless&width=1175&height=644)
+**Adaptive triggers** puzzles can be easily skipped by opening the pause menu and selecting "Skip Activity".
 
-## Uninstall Process
-DO NOT delete Resorep before properly removing the game first. Here are the steps you should follow:
-1. Open Resorep and select your game's exe.
-2.  Click "Remove selected"
-3.  Done, now you can delete it.
+**QTE that use the right joystick** can be done by pressing the arrow keys or using your mouse.
+
+**Change your in-game's camera sensitivity** to something between 7 and 10 depending on your mouse's DPI, that'll make camera movement feel much more natural. But even then you'll have to get used to it. If you want to you can also tweak your mouse's sensitivity and response in reWASD. [Here's a guide,](https://help.rewasd.com/basic-functions/advanced-stick-settings.html)
+
+**You can set shortcuts in-game** and use the 2 and 3 keys to perform actions.
+
+**You can map certain keys to anything you'd like.** These are keys that are not necessary as they're used to perform button combinations or can be done alternatively.
+- "Q" = Throw Environment (L1 + R1)
+- "V" = Symbiote Surge / Venom Blast (R3 + L3)
+- "C" = Zip to point (L2 + R2)
+- "Alt" = Opens FNSM app (Swipe Left)
+
+**You can also remap these** as they are already mapped to your mouse's side button and right button respectively:
+- "F" = L1 Abilities (L1) - *[Right button and MB4]*
+- "R" = R1 Gadgets / Webs (R1) - *[MB5]*
+
+
+**By default the game will prompt you to press MB5 to use R1**, do this if your mouse doesn't have side buttons and you'd like the prompt to change:
+1. Go to "Keyboard_ModdedTextures"
+2. Copy the files from "R1 mapped to R (Keyboard)"
+3. Paste the files in "Keyboard_ModdedTextures"
+4. Replace them.
+5. The R key is already mapped to R1 by default in reWASD so you don't have to change anything there.
