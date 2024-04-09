@@ -7,7 +7,7 @@ Showcase video here: [https://youtu.be/RFKtxe-u-PM](https://youtu.be/RFKtxe-u-PM
 ![blank](https://i.imgur.com/kQOAlQ1.png)
 
 ### Requirements
-1. A legit or cracked copy of ReWASD. You can find a crack in Github made by EugeneSunrise. I highly recommend you install the latest available version: reWASD 7.0
+1. A legit or cracked copy of ReWASD. You can find a free crack in Github made by [EugeneSunrise](https://github.com/EugeneSunrise/). I highly recommend you install the latest available version: reWASD 7.0.
 2. Marvel's Spider-Man 2 for PC.
 
 ### ReWASD Config Instructions
