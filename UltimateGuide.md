@@ -31,9 +31,6 @@ I know it can be confusing at first so here's a quick example for you to follow:
 ## Last Steps
 After you've replaced all the icons, copy and paste ALL the icons from "Fixed Textures" to your "Modded Textures" folder. You don't need to modify those icons as those were already customized.
 
-## Showcase
-![enter image description here](https://media.discordapp.net/attachments/1202083020623065108/1218921361104175194/1.png?ex=6612a67a&is=6600317a&hm=bbb1214779f5579723ed3f69b10717f40770b6e5594dec880361773c86d10687&=&format=webp&quality=lossless&width=1175&height=644)
-
 ## Uninstall Process
 DO NOT delete Resorep before properly removing the game first. Here are the steps you should follow:
 1. Open Resorep and select your game's exe.
