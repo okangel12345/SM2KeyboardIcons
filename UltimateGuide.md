@@ -1,5 +1,5 @@
 # Ultimate K&B Guide
-## This guide has been put on hold until K&M support is available natively in-game. You can still use it, but I recommend you just get the pre-made icons instead.
+## This guide has been put on hold until K&M support is available natively in-game or I get enough willpower to code a program that will make it easier to replace the icons. You can still use it, but I recommend you just get the pre-made icons instead.
 
 Having issues? Check [Common Issues](https://github.com/okangel12345/SM2KeyboardIcons/blob/main/CommonIssues.md).
 
