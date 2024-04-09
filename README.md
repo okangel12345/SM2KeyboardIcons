@@ -1,5 +1,6 @@
 # SM2 BAKED ICONS for PC
 Keyboard and mouse icons along with a ReWASD config so you can play Marvel's Spider-Man 2 on PC without a controller.
+![blank](https://i.imgur.com/mhhJtCB.png)
 
 If you want to adapt the icons to your own reWASD config check this: [Ultimate Guide](https://github.com/okangel12345/SM2KeyboardIcons/blob/main/UltimateGuide.md)
 
