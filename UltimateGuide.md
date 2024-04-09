@@ -13,7 +13,7 @@ Having issues? Check [Common Issues](https://github.com/okangel12345/SM2Keyboard
 # How to make your own config + icons.
 Use this in case you want to use your own personalized config.
 ## Resorep Tutorial
- 1. Extract "KeyboardIcons.7z", inside you'll find two folders.
+ 1. Extract "KeyboardIcons.7z" (SM2KeyboardIcons release), inside you'll find two folders.
  2. Move both folders to your game's directory where the launcher is: [example](https://i.imgur.com/vZ1KcqZ.png).
  3. Open "Resorep" and open the folder that corresponds to your OS.
  4. Open "resorep.jar", press "Add application" and select "Marvel's Spider-Man 2.exe" in your "workspace" folder.
