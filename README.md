@@ -22,8 +22,11 @@ If you need any help setting up ReWASD check this page: https://help.rewasd.com/
 
 ### Icons Instructions
 1. Copy all the files from "BakedIcons" to your "workspace" folder.
-2. Run "Install_Keyboard_Icons.bat". A CMD window will appear telling you it was successful.
+2. Run "Keyboard_Icons.bat". A CMD window will appear.
+3. Select the first option: press "1" and then "Enter"
 
+To uninstall run "Keyboard_Icons.bat" again and now select the second option: press "2" and then "Enter".
+ 
 ## NOTES! Please read.
 **To see the descriptions** of the keybinds all you have to do is click the "View button" and select "Show mappings/descriptions". I highly recommend you do this before playing so you can familiarize yourself with the controls.
 
