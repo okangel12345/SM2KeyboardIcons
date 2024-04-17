@@ -1,7 +1,7 @@
 # Common Issues
 
 ## My game doesn't boot after installing the icons.
-Make sure you're running it on DirectX 11 in the launcher settings.
+Set rendering mode to "DirectX 11" in the launcher settings. Vulkan is not compatible.
 
 ## Ctrl doesn't work.
 Open ReWASD and remap "Ctrl" to act as "R". Then turn on keyboard controls on your launcher.
