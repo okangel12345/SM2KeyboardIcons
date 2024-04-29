@@ -1,26 +1,25 @@
 # SM2 BAKED ICONS for PC
-Keyboard and mouse icons along with a ReWASD config so you can play Marvel's Spider-Man 2 on PC without a controller.
+Keyboard and mouse icons along with a ReWASD config so you can play Marvel's Spider-Man 2 on PC without a controller. [Showcase Video!](https://youtu.be/RFKtxe-u-PM)
 
 ![blank](https://i.imgur.com/VwQrgE0.png)
 
-If you want to adapt the icons to your own reWASD config check this (A new tool is in the works so you don't worry about this, for now this guide is outdated): [Ultimate Guide](https://github.com/okangel12345/SM2KeyboardIcons/blob/main/UltimateGuide.md)
+## Showcase
+![blank](https://i.imgur.com/BDxa6lP.png)
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://i.imgur.com/kQOAlQ1.png)  |  ![](https://i.imgur.com/hfK5xwf.png)
 
-Showcase video here: [https://youtu.be/RFKtxe-u-PM](https://youtu.be/RFKtxe-u-PM)
-
-![blank](https://i.imgur.com/hfK5xwf.png)
-![blank](https://i.imgur.com/kQOAlQ1.png)
-
-### Requirements
+## Requirements
 1. A legit or cracked copy of ReWASD. You can find a free crack in Github made by [EugeneSunrise](https://github.com/EugeneSunrise/). I highly recommend you install the latest available version: reWASD 7.0.
 2. Marvel's Spider-Man 2 for PC.
 
-### ReWASD Config Instructions
+## ReWASD Config Instructions
 If you need any help setting up ReWASD check this page: https://help.rewasd.com/ and its contents.
 1. Download the latest release called "SM2BakedIcons.zip" and double-click "Spider-Man 2 PC.rewasd" to add it to ReWASD.
 2. [Group your keyboard and mouse together](https://help.rewasd.com/how-to-remap/group-of-devices.html).
 3. Start your game and enable reWASD by clicking "Apply to Slot 1" or the power button on the bottom left side of your screen. You can hold '7' on your keyboard to use your mouse so you can minimize reWASD's window.
 
-### Icons Instructions
+## Icons Instructions
 1. Copy all the files from "BakedIcons" to your "workspace" folder.
 2. Run "Keyboard_Icons.bat". A CMD window will appear.
 3. Select the first option: press "1" and then "Enter"
