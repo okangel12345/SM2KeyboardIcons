@@ -35,12 +35,12 @@ Every single .texture file is a .dds that can be converted with the use of HxD. 
 ![Reference 1](https://cdn.discordapp.com/attachments/1237598576381661215/1237599366810697738/image.png?ex=663c3bba&is=663aea3a&hm=6b5a54ad5e13dcd03aebd04991eb6f6e0fc4804f90f70108e2ee3504410e7148&)
 
 ## 2. Convert .dds to .texture
-1. Edit the .dds however you want and save following these parameters (check Reference 2)
+1. Edit the .dds however you want and save following these parameters for low quality textures (check Reference 2)
 2. Open it in HxD editor and select the first characters all the way to 0x93 (check Reference 3)
 3. Paste the original texture ID you got rid of in the beginning (You can refer back to Reference 1 to see what I'm talking about)
 4. Save the file and use it to replace both the low quality and hd versions of the texture in modding tool.
 
-For HD textures just delete the DDS header.
+For HD textures just save as BC7_sRGB with no mip maps and delete the DDS header.
 
 ## Reference 2
 ![image](https://github.com/okangel12345/SM2KeyboardIcons/assets/111395240/1e0100b9-981c-450b-9355-f38f483c5056)
