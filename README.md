@@ -5,7 +5,7 @@ Keyboard and mouse icons along with a ReWASD config so you can play Marvel's Spi
 
 ## Showcase
 ![blank](https://i.imgur.com/BDxa6lP.png)
-Solarized dark             |  Solarized Ocean
+       1      |  2
 :-------------------------:|:-------------------------:
 ![](https://i.imgur.com/kQOAlQ1.png)  |  ![](https://i.imgur.com/hfK5xwf.png)
 
